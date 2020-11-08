@@ -1,0 +1,19 @@
+div.left-side {
+    width: 600px;
+    float: left;
+    height: 500px;
+    margin-top: 13px;
+    
+    position: relative;
+}
+@media (max-width: 800px) {
+    div.left-side {
+        width: 95%;
+    }
+}
+.video-container {
+    display: inline-block;
+    width: 600px;
+    position: relative;
+    margin: 10px 0px 10px 0px;
+}

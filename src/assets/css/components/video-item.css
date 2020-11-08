@@ -1,0 +1,16 @@
+div.video-item-container:hover {
+    cursor: pointer;
+}
+.video-item-container {
+    position: relative;
+    height: 100px;
+    min-width: 500px;
+}
+.left-box {
+    position: absolute;
+    left: 2%;
+    top: 5%;
+}
+.right-box {
+    margin-left: 150px;
+}
